@@ -131,3 +131,12 @@ public class Main {
 
 
 }
+
+// Propozycja do struktury tabeli bazy danych przechowujacej logi
+    //log_id INT AUTO_INCREMENT PRIMARY KEY,
+    //log_time TIMESTAMP,
+    //log_severity VARCHAR(255),
+    //log_message TEXT,
+    //log_libraries VARCHAR(255),
+    //file_name VARCHAR(255),
+    //file_path VARCHAR(255)
